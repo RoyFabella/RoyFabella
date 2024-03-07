@@ -1,0 +1,17 @@
+html lang = "en">
+    <head>
+        <title>App_Dev</title>
+
+    </head>
+    <body>
+
+        <h1 style = "color: red;text-align:center;">MY DATA</h1>
+
+        <p style ="text-align:center;color:blue;"><b>I'm Roy Fabella 21 years old, and 2nd year student in ISPSC.</b></p>
+
+        <p style = "color:red;text-align:center;"><i>My Favorite subject is Mathematics and Modern World because I love solving .</i></p>
+
+        <P style = "text-align:center; color:red;"><strong>This day I got a low score on my quiz.</strong></P>
+
+    </body>
+</html>
